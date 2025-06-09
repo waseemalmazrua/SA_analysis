@@ -28,53 +28,6 @@ Visualize trends using bar charts
 
 Provide actionable insights for public health and traffic safety planning
 
-📝 Key Columns
-
-Column
-
-Description
-
-region
-
-Region name
-
-accidents
-
-# of traffic accident reports
-
-drowning
-
-# of drowning cases
-
-sob
-
-# of shortness of breath incidents
-
-total
-
-Sum of all three types
-
-pct_accidents
-
-Proportion of traffic accidents per region
-
-pct_drowning
-
-Proportion of drowning cases per region
-
-pct_sob
-
-Proportion of SOB incidents per region
-
-dominant_type
-
-Most frequent incident type in the region
-
-📈 Visualizations
-
-Bar chart: Top 3 regions per incident type
-
-Stacked chart: Comparison by proportions
 
 🚀 Tech Stack
 
@@ -84,14 +37,11 @@ Jupyter Notebook
 
 ✅ Usage
 
-Clone the repository
-
 Open readmission.ipynb in JupyterLab
 
 Run all cells to reproduce analysis
 
 📁 Files
-
 
 readmission.ipynb → Final notebook
 

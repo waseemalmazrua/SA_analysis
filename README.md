@@ -18,15 +18,6 @@ Region name
 
 Yearly count of incidents
 
-⚖️ Objectives
-
-Calculate total and proportional distribution of incidents
-
-Identify which type is most dominant in each region
-
-Visualize trends using bar charts
-
-Provide actionable insights for public health and traffic safety planning
 
 
 🚀 Tech Stack
@@ -35,13 +26,6 @@ Python (Pandas, NumPy, Matplotlib)
 
 Jupyter Notebook
 
-✅ Usage
-
-Open readmission.ipynb in JupyterLab
-
-Run all cells to reproduce analysis
-
-📁 Files
 
 readmission.ipynb → Final notebook
 

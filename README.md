@@ -24,9 +24,8 @@
 
 
 📂 البيانات من: Saudi Open Data Portal
-                                                                                                              https://open.data.gov.sa/en/datasets/view/23d1fe79-9d33-4e89-bef4-a4796e4261cb/resources
-                                                                                                              https://open.data.gov.sa/en/datasets/view/a80945a5-014c-4113-9c1e-2bdb9e938ce5/resources
-                                                                                                              https://open.data.gov.sa/en/datasets/view/e59b6c45-4b33-4bb5-adf7-c457c48e1d88/resources
-
+                                                                                                       https://open.data.gov.sa/en/datasets/view/e59b6c45-4b33-4bb5-adf7-c457c48e1d88
+                                                                                                       
+                                                                                                       
 
 👨‍💻 تم تنفيذ هذا التحليل بواسطة: وسيم المزروع🔗 LinkedIn – https://www.linkedin.com/in/waseemalmazrua

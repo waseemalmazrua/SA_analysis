@@ -23,9 +23,5 @@
 الأدوات المستخدمة:Python – Pandas – Matplotlib
 
 
-📂 البيانات من: Saudi Open Data Portal
-                                                                                                       https://open.data.gov.sa/en/datasets/view/e59b6c45-4b33-4bb5-adf7-c457c48e1d88
-                                                                                                       
-                                                                                                       
-
+📂 البيانات من: Saudi Open Data Portal :https://open.data.gov.sa/en/home
 👨‍💻 تم تنفيذ هذا التحليل بواسطة: وسيم المزروع🔗 LinkedIn – https://www.linkedin.com/in/waseemalmazrua
